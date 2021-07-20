@@ -1,0 +1,13 @@
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.exe
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.deps.json
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.runtimeconfig.json
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.runtimeconfig.dev.json
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.dll
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\bin\Debug\netcoreapp3.1\LINQApp1.pdb
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.csproj.AssemblyReference.cache
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.AssemblyInfoInputs.cache
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.AssemblyInfo.cs
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.csproj.CoreCompileInputs.cache
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.dll
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.pdb
+C:\Users\reddy\Feb_Practice\LINQ Practice\LINQApp1\LINQApp1\obj\Debug\netcoreapp3.1\LINQApp1.genruntimeconfig.cache
